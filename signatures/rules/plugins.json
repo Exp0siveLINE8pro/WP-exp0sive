@@ -1,0 +1,16 @@
+[
+  {
+    "id": "SIG-PLG-001",
+    "plugin": "revslider",
+    "risk": "CRITICAL",
+    "description": "Slider Revolution historically abused due to exposed upload endpoints",
+    "evidence": ["Known legacy exposure patterns"]
+  },
+  {
+    "id": "SIG-PLG-002",
+    "plugin": "wp-file-manager",
+    "risk": "HIGH",
+    "description": "File manager plugins significantly increase attack surface",
+    "evidence": ["Direct file system interaction"]
+  }
+]

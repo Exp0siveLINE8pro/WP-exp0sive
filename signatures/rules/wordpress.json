@@ -1,0 +1,8 @@
+[
+  {
+    "id": "SIG-WP-001",
+    "condition": "xmlrpc_enabled",
+    "risk": "MEDIUM",
+    "description": "XML-RPC enabled – commonly abused for amplification or brute-force"
+  }
+]

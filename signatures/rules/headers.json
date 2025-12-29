@@ -1,1 +1,14 @@
-
+[
+  {
+    "id": "SIG-HDR-001",
+    "header": "Content-Security-Policy",
+    "risk": "MEDIUM",
+    "description": "Missing Content-Security-Policy header"
+  },
+  {
+    "id": "SIG-HDR-002",
+    "header": "X-Frame-Options",
+    "risk": "LOW",
+    "description": "Missing X-Frame-Options header"
+  }
+]
